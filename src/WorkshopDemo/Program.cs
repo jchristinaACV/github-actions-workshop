@@ -1,4 +1,4 @@
-using Azure.Identity;
+using Azure.Identity; a
 using Microsoft.ApplicationInsights.Extensibility;
 using Serilog;
 using Serilog.Events;
